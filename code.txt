@@ -1,0 +1,13 @@
+#Instructions to use in terraform :
+
+terraform plan -out <filename>
+
+terraform apply
+
+##########################################
+
+terraform destroy
+
+terraform show
+
+
